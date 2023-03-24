@@ -1,0 +1,2 @@
+Primeiros estudos de git.
+Criando esse arquivo diretamente pelo Github.
